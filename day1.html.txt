@@ -1,0 +1,29 @@
+<!doctype.html>
+<html>
+   <head>  </head>
+ 
+ <body>
+
+
+   <script>
+	var n1=20;
+	var n2=10;
+	var add=n1+n2;
+	var sub=n1-n2;
+	var div=n1/n2;
+	var mul=n1*n2;
+	var mod=n1%n2;
+	var unary=n1++;
+	console.log(add,sub,div,mul,mod,unary);
+	console.log(n1===n2&&n2===n3);
+	console.log(n2!==n3||n2==n1);
+        if(32==32)
+	{console.log("hi");}
+	else
+	{
+             console.log("letsupgrade");
+         
+          }	
+    </script> 
+ </body>
+</html>  
